@@ -14,17 +14,6 @@
 + Media queries (for tablet)
 
 ## Technologies Used:
-    <table>
-        <tr>
-            <td>HTML</td>
-            <td>CSS</td>
-            <td>JavaScript</td>
-            
-        </tr>
-
-        <tr>
-            <td>5</td>
-            <td>3</td>
-            <td>ECMAScript 2022</td>
-        </tr>
-    </table>
+ - HTML5
+ - CSS3
+ - JavaScript ECMAScript 2022
