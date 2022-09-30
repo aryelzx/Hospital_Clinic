@@ -17,3 +17,6 @@
  - HTML5
  - CSS3
  - JavaScript ECMAScript 2022
+
+##Deploy 
+- https://hospitalclinic.netlify.app
