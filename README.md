@@ -4,7 +4,7 @@
 
 > Status: Developing 📐
 
-### This web application planned by me is about a page a hospital clinic 🏥. my first project.
+### This web application planned by me is about a page a hospital clinic 🏥. my first personal project.
 
 ## Some fields in my model is:
 + name
