@@ -20,11 +20,11 @@
             <td>CSS</td>
             <td>JavaScript</td>
             
-        <tr>
+        </tr>
 
         <tr>
             <td>5</td>
             <td>3</td>
             <td>ECMAScript 2022</td>
-        <tr>
+        </tr>
     </table>
