@@ -11,7 +11,7 @@
 + email
 
 ## This features are in developing:
-+ Media queries (for tablet)
++ Media queries 
 
 ## Technologies Used:
  - HTML5
